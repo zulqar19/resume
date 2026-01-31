@@ -109,5 +109,3 @@ This project is created for **learning and educational purposes**.
 You are free to use and modify it.
 
 
-Just tell me 🙂
-
